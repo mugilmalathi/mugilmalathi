@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/mugil28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugil28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mugilarasan-s-3992311a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mugilarasan-s-3992311a4/" height="30" width="40" /></a>
-<a href="https://medium.com/mugilarasan.malathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mugilarasan.malathi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mugilarasan_mal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugilarasan_mal1" height="30" width="40" /></a>
 </p>
 
