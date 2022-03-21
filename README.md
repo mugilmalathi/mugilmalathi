@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-- 👨‍💻 All of my projects are available at [https://mugil.vercel.app/](https://github.com/mugilmalathi)
+- 👨‍💻 All of my projects are available at [https://mugilarasan-portfolio.vercel.app/#](https://github.com/mugilmalathi)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
