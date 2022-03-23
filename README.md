@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-- 👨‍💻 All of my projects are available at https://mugilarasan-portfolio.vercel.app/#
+- 👨‍💻 All of my projects are available at [mugilarasan-portfolio](https://mugilarasan-portfolio.vercel.app/#)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [mugilarasan](https://medium.com/me/stories/public)
 
 - 📫 How to reach me **mugilarasan.malathi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17aD0InJfukHQuwTmQ5CdGY2RS4OJ0aff/view?usp=sharing](https://drive.google.com/file/d/13NAImxx7OWeFpy5nzR_nrntVJX7gEusU/view?usp=sharing)
+- 📄 Know about my experiences [mugilarasan-resume](https://drive.google.com/file/d/13NAImxx7OWeFpy5nzR_nrntVJX7gEusU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
