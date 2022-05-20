@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [mugilarasan-portfolio](https://mugilarasan-portfolio.vercel.app/#)
 
-- 📝 I regularly write articles on [mugilarasan]([https://medium.com/me/stories/public](https://medium.com/@mugilarasan.malathi/mi-clone-483bc7d47bab))
+- 📝 I regularly write articles on [mugilarasan](https://medium.com/@mugilarasan.malathi/mi-clone-483bc7d47bab)
 
 - 📫 How to reach me **mugilarasan.malathi@gmail.com**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mugil28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugil28" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/mugil-arasan/](https://www.linkedin.com/in/mugil-arasan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mugil-arasan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mugil-arasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mugil-arasan/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mugilarasan_mal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugilarasan_mal1" height="30" width="40" /></a>
 </p>
 
