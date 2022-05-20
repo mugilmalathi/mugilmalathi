@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [mugilarasan-portfolio](https://mugilarasan-portfolio.vercel.app/#)
 
-- 📝 I regularly write articles on [mugilarasan](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [mugilarasan]([https://medium.com/me/stories/public](https://medium.com/@mugilarasan.malathi/mi-clone-483bc7d47bab))
 
 - 📫 How to reach me **mugilarasan.malathi@gmail.com**
 
