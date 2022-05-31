@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Mugilarasan</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer</h3>
+Every time I look into websites or any social networking sites on the internet, I was curious about how the webpage is working, and what are all the operations work on the backend. This curiosity engaged me to be effective and productive in the process of learning web development. Thus my web development journey has started.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugilmalathi&label=Profile%20views&color=0e75b6&style=flat" alt="mugilmalathi" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
@@ -12,11 +13,15 @@
 
 - 📄 Know about my experiences [mugilarasan-resume](https://drive.google.com/file/d/128UBXZRe9WnQw5aklyFRcmPicaByc2Ly/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mugil28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugil28" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mugil-arasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mugil-arasan/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mugilarasan_mal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugilarasan_mal1" height="30" width="40" /></a>
+## Connect with me:
+
+<p align = "center">
+
+<!-- [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent) -->
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://mugilarasan-portfolio.vercel.app/#)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://www.twitter.com/Mugil28) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mugil-arasan/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@mugilarasan.malathi/mi-clone-483bc7d47bab)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,8 +36,11 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugilmalathi&show_icons=true&locale=en&layout=compact" alt="mugilmalathi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugilmalathi&show_icons=true&locale=en&layout=compact" alt="mugilmalathi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mugilmalathi&show_icons=true&locale=en" alt="mugilmalathi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugilmalathi&" alt="mugilmalathi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugilmalathi&" alt="mugilmalathi" /></p> -->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
