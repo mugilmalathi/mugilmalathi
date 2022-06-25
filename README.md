@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Mugilarasan</h1>
-   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="auto">Aspiring Full-Stack Web Developer</h3>
 Every time I look into websites or any social networking sites on the internet, I was curious about how the webpage is working, and what are all the operations work on the backend. This curiosity engaged me to be effective and productive in the process of learning web development. Thus my web development journey has started.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugilmalathi&label=Profile%20views&color=0e75b6&style=flat" alt="mugilmalathi" /> </p>
@@ -36,6 +36,10 @@ Every time I look into websites or any social networking sites on the internet, 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
+
+> **GIF loading a little slow? You can drink a cup of ☕ first**.
+
+<br/>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugilmalathi&show_icons=true&locale=en&layout=compact" alt="mugilmalathi" /></p>
 
