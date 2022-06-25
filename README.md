@@ -3,6 +3,8 @@
 Every time I look into websites or any social networking sites on the internet, I was curious about how the webpage is working, and what are all the operations work on the backend. This curiosity engaged me to be effective and productive in the process of learning web development. Thus my web development journey has started.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugilmalathi&label=Profile%20views&color=0e75b6&style=flat" alt="mugilmalathi" /> </p>
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
 - 👨‍💻 All of my projects are available at [mugilarasan-portfolio](https://mugilarasan-portfolio.vercel.app/#)
