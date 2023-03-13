@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Mugilarasan</h1>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<h3 align="auto">Aspiring Full-Stack Web Developer</h3>
+<h3 align="auto">Full-Stack Web Developer</h3>
 Every time I look into websites or any social networking sites on the internet, I was curious about how the webpage is working, and what are all the operations work on the backend. This curiosity engaged me to be effective and productive in the process of learning web development. Thus my web development journey has started.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugilmalathi&label=Profile%20views&color=0e75b6&style=flat" alt="mugilmalathi" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development Course**
+- 🌱 I’m currently working as a Software Development Engineer (SDE-1) @ M2p Fintech
 
 - 👨‍💻 All of my projects are available at [mugilarasan-portfolio](https://mugilarasan-portfolio.vercel.app/#)
 
@@ -47,5 +47,5 @@ Every time I look into websites or any social networking sites on the internet, 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugilmalathi&" alt="mugilmalathi" /></p> -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mugilmalathi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mugil's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilmalathi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mugilmalathi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mugilmalathi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mugil's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilmalathi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
